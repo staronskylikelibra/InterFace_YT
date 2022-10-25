@@ -4,7 +4,7 @@ body{
 .page{
     display: grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
-    margin-left: 106px;
+    margin-left: 86px;
     margin-top:95px;
     margin-bottom :100%;
     background-color:rgb(241, 238, 238);
