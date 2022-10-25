@@ -1,5 +1,6 @@
 body{
-    height:6000px;
+    height:100%;
+    width:100%;
 }
 .page{
     display: grid;
